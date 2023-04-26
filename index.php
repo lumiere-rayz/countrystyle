@@ -20,7 +20,7 @@
     <!-- Site Icons -->
     <link rel="shortcut icon" href="images/logo.png" type="image/x-icon" />
 
-    <!-- Bootstrap CSS -->
+    <!-- Bootstrap CSS atomated -->
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <!-- Site CSS -->
     <link rel="stylesheet" href="css/style.css">
